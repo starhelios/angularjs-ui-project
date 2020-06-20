@@ -49,10 +49,3 @@ $ bower install angular-ui-select
 * `gulp watch` to watch src files to jshint, build and test when changed
 * `gulp docs` build docs and examples
 
-## Contributing
-
-- Check [CONTRIBUTING.md](/CONTRIBUTING.md)
-- Run the tests
-- Try the [examples](./docs/examples)
-
-When issuing a pull request, please exclude changes from the "dist" folder to avoid merge conflicts.
